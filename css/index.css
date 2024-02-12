@@ -1,5 +1,8 @@
-@import "global.css";
-@import "controls.css";
-@import "header.css";
-@import "products.css";
-@import "footer.css";
+.bg-body-tertiary {
+    background-color: aqua !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: url(../img/banana.svg);
+}
